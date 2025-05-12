@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "shy-glitter-3644",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "c7bd0d86-f082-4a61-8097-0da80a5c33e2",
+      "database_name": "patient-bird-c242-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
